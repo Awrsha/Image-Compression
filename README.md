@@ -60,7 +60,7 @@ Lower quality/num_values/num_coeffs gives higher compression but loses more deta
 
 The techniques can achieve upto 90% compression on typical images with reasonable quality. DCT performs better on smooth regions while wavelets preserve edges better.
 
-![Results](results.png)
+![Results](https://github.com/Awrsha/Image-Compression/blob/master/Image%20Compression%20using%20Discrete%20Cosine%20Transform%20(DCT)/compressed.jpg)
 
 ## References
 
@@ -68,4 +68,23 @@ The techniques can achieve upto 90% compression on typical images with reasonabl
 - SVD implementation based on scikit-image 
 - Wavelet compression uses PyWavelets library
 
-Let me know if you need any clarification or have additional suggestions for improving the README!
+## Contributing
+
+This is an open-source project and contributions are welcome. To contribute, please fork this repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Developers 👨🏻‍💻
+
+<p align="center">
+<a href="https://github.com/Awrsha"><img src="https://avatars.githubusercontent.com/u/89135083?v=4" width="100;" alt="Awrsha Parvizi"/><br /><sub><b>.:: Amir M. Parvizi ::.</b></sub></a>
+</p>
+
+## System & Hardware 🛠  
+<br> <summary><b>⚙️ Things I use to get stuff done</b></summary> <ul> <li><b>OS:</b> Windows 11</li> <li><b>Laptop: </b>TUF Gaming</li> <li><b>Code Editor:</b> Visual Studio Code - The best editor out there.</li> <li><b>To Stay Updated:</b> Medium, Linkedin and Instagram.</li> <br /> ⚛️ Checkout Our VSCode Configrations <a href="">Here</a>. </ul> <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p></p><p align="center"><img height="27" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" /></p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
